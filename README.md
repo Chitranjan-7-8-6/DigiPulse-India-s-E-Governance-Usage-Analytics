@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇮🇳 DigiPulse
+# In DigiPulse
 ### India's E-Governance Usage Analytics
 
 *Tracking the pulse of India's Digital Public Infrastructure — one government dataset at a time.*
