@@ -1,0 +1,7 @@
+Metric,Platform,Value_Reported,Value_Reported_Unit,Value_Converted,Value_Converted_Unit,Central_Share,State_Share,AsOfDate,ReportedDate,Precision
+Total services/document types,UMANG,2575,count,2575,count,880,1695,2026-07-31,2026-08-07,exact
+Total services/document types,DigiLocker,5437,count,5437,count,661,4776,2026-07-31,2026-08-07,exact
+Registered users,UMANG,11.66,crore,116600000,users,,,2026-07-31,2026-08-07,exact
+Registered users,DigiLocker,72.43,crore,724300000,users,,,2026-07-31,2026-08-07,exact
+Transactions (trailing 3 years),UMANG,798,crore,7980000000,transactions,,,,2026-08-07,approximate
+Transactions (trailing 3 years),DigiLocker,72.86,crore,728600000,transactions,,,,2026-08-07,approximate
